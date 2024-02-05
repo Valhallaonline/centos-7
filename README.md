@@ -1,5 +1,5 @@
 ## CentOS 7
 
-CentOS 7 image for molecule testing.
+Modified version of the CentOS 7 base container to allow it to be used with molecule for ansible role testing.
 
-Container is rebuilt on a biweekly basis
+Container is rebuilt on the 28th of every month.
